@@ -61,9 +61,9 @@ Para construir aplicações de ponta a ponta com qualidade, divido meu "cinto de
 
 ---
 
-## 🚀 O que estou aprendendo agora
+## 🚀 Próximas Competências
 
-Como o aprendizado na tecnologia é contínuo, meu radar de estudos atual está focado em aprimorar a entrega e a qualidade de software de ponta a ponta:
+Pensando nos meus próximos passos de carreira e na evolução contínua para entregar softwares com cada vez mais qualidade, estas são as tecnologias e conceitos que planejo dominar em breve:
 
 | | | |
 | :---: | :---: | :---: |
