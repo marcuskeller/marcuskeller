@@ -1,8 +1,8 @@
 # Sobre Mim
 
-Desenvolvedor Full Stack, Técnico em Desenvolvimento de Sistemas e atual acadêmico de Análise e Desenvolvimento de Sistemas (ADS). Sou focado na construção de soluções robustas de ponta a ponta, com forte domínio na criação de APIs escaláveis utilizando **Java, Kotlin e Spring Boot**.
+Desenvolvedor Full Stack, formado em Desenvolvimento de Sistemas e atualmente cursando Análise e Desenvolvimento de Sistemas (ADS). Desenvolvo aplicações de ponta a ponta aplicando boas práticas de Clean Code e Clean Architecture, com experiência prática na construção de APIs REST usando **Java, Kotlin e Spring Boot**.
 
-No front-end, crio interfaces dinâmicas e de alta performance com **Angular e TypeScript**. Sou movido pelo desafio de transformar requisitos complexos em código limpo, arquiteturas orientadas a eventos e aplicações perfeitamente integradas com a nuvem (**AWS**).
+No front-end, construo interfaces com **Angular e TypeScript**, sempre buscando entender bem o problema antes de propor a solução. Tenho interesse crescente em arquiteturas orientadas a eventos e serviços na nuvem (**AWS**), aplicados nos projetos abaixo.
 
 ---
 
@@ -23,7 +23,7 @@ Sistema automatizado de processamento de imagens utilizando uma arquitetura base
 
 ## 🛠️ Stack de Desenvolvimento
 
-Para construir aplicações de ponta a ponta com qualidade, divido meu "cinto de utilidades" nas seguintes categorias:
+Tecnologias que já apliquei na prática, organizadas por categoria:
 
 ### 💻 Linguagens de Programação
 
@@ -41,7 +41,7 @@ Para construir aplicações de ponta a ponta com qualidade, divido meu "cinto de
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40"/><br>**Spring Boot** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40"/><br>**Laravel** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/><br>**Node.js** |
 | Framework robusto para criação de APIs RESTful. | Framework back-end elegante para construção ágil de sistemas e SaaS. | Ambiente de execução JavaScript focado em alta performance. |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40"/><br>**Angular** | <img src="https://cdn.simpleicons.org/nextdotjs/black" alt="Next.js" width="40"/><br>**Next.js** | |
-| Plataforma completa e opinativa para SPAs enterprise. | Framework React focado em SSR, SSG, rotas otimizadas e SEO. | |
+| Plataforma completa para construção de SPAs escaláveis. | Framework React focado em SSR, SSG, rotas otimizadas e SEO. | |
 
 ### 📚 Bibliotecas
 
