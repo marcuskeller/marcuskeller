@@ -1,17 +1,17 @@
 # Sobre Mim
 
-Desenvolvedor Full Stack, Técnico em Desenvolvimento de Sistemas e atual acadêmico de Análise e Desenvolvimento de Sistemas (ADS). Sou focado na construção de soluções robustas de ponta a ponta, com forte domínio na criação de APIs escaláveis utilizando **Java, Kotlin e Spring Boot**, além de sólida experiência no desenvolvimento de produtos e SaaS no ecossistema **PHP com Laravel**. 
+Desenvolvedor Full Stack, Técnico em Desenvolvimento de Sistemas e atual acadêmico de Análise e Desenvolvimento de Sistemas (ADS). Sou focado na construção de soluções robustas de ponta a ponta, com forte domínio na criação de APIs escaláveis utilizando **Java, Kotlin e Spring Boot**.
 
-No front-end, crio interfaces dinâmicas e de alta performance dominando **React, Next.js e Angular**. Sou movido pelo desafio de transformar requisitos complexos em código limpo, arquiteturas orientadas a eventos e aplicações perfeitamente integradas com a nuvem (**AWS**).
+No front-end, crio interfaces dinâmicas e de alta performance com **Angular e TypeScript**. Sou movido pelo desafio de transformar requisitos complexos em código limpo, arquiteturas orientadas a eventos e aplicações perfeitamente integradas com a nuvem (**AWS**).
 
 ---
 
 ## 💼 Projetos em Destaque
 
 ### 🐾 [Petflow](https://github.com/marcuskeller/petflow)
-Plataforma SaaS desenvolvida para otimizar o processo de adoção e gestão de animais de estimação, atuando como uma ponte digital entre ONGs, abrigos e potenciais adotantes.
-- **Stack:** PHP (Laravel), React (Next.js), TypeScript, MySQL.
-- **Destaque:** Implementação de padrões OOP, Clean Architecture e fluxos de comunicação eficientes em um ambiente escalável.
+Plataforma SaaS de adoção de pets que conecta abrigos/ONGs a adotantes, com marketplace, comunidade e sistema de match.
+- **Stack:** Java 21 + Spring Boot (Spring Security, JWT, PostgreSQL, Liquibase) no backend · Angular + TypeScript + TailwindCSS/DaisyUI no frontend.
+- **Destaque:** Clean Architecture (Controller → Service → Repository → Domain), autenticação completa (login, cadastro, recuperação de senha) e vitrine de pets com busca e filtro em tempo real via Signals.
 
 ### ☁️ [AWS Image Pipeline](https://github.com/marcuskeller/aws-image-pipeline)
 Sistema automatizado de processamento de imagens utilizando uma arquitetura baseada em eventos.
@@ -29,35 +29,31 @@ Para construir aplicações de ponta a ponta com qualidade, divido meu "cinto de
 
 | | | |
 | :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/><br>**Java** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40"/><br>**Kotlin** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40"/><br>**PHP** |
-| Base sólida e orientada a objetos para construção de sistemas. | Linguagem moderna, segura e concisa focada no ecossistema JVM. | Linguagem dinâmica principal para desenvolvimento web. |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/><br>**TypeScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/><br>**JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/><br>**Python** |
-| Tipagem estática para ecossistema JS, garantindo previsibilidade. | Linguagem base da web para construção de lógicas e interatividade. | Scripts, automação de tarefas e processamento ágil de dados. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/><br>**Java** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40"/><br>**Kotlin** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/><br>**TypeScript** |
+| Base sólida e orientada a objetos para construção de sistemas. | Linguagem moderna, segura e concisa focada no ecossistema JVM. | Tipagem estática para ecossistema JS, garantindo previsibilidade. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/><br>**JavaScript** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/><br>**Python** | |
+| Linguagem base da web para construção de lógicas e interatividade. | Scripts, automação de tarefas e processamento ágil de dados. | |
 
 ### ⚙️ Frameworks & Ambientes
 
 | | | |
 | :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40"/><br>**Spring Boot** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="40"/><br>**Laravel** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/><br>**Node.js** |
-| Framework robusto para criação de APIs RESTful. | Framework back-end elegante para construção ágil de sistemas e SaaS. | Ambiente de execução JavaScript focado em alta performance. |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40"/><br>**Angular** | <img src="https://cdn.simpleicons.org/nextdotjs/black" alt="Next.js" width="40"/><br>**Next.js** | |
-| Plataforma completa e opinativa para SPAs enterprise. | Framework React focado em SSR, SSG, rotas otimizadas e SEO. | |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40"/><br>**Spring Boot** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/><br>**Node.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40"/><br>**Angular** |
+| Framework robusto para criação de APIs RESTful. | Ambiente de execução JavaScript focado em alta performance. | Plataforma completa e opinativa para SPAs enterprise. |
 
 ### 📚 Bibliotecas
 
-| | |
-| :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/><br>**React** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40"/><br>**Tailwind CSS** |
-| Biblioteca declarativa principal para criação de interfaces de usuário dinâmicas. | Biblioteca de CSS utilitário para estilização ágil e responsiva diretamente na marcação. |
+| |
+| :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40"/><br>**Tailwind CSS** |
+| Biblioteca de CSS utilitário para estilização ágil e responsiva diretamente na marcação. |
 
 ### ☁️ Infraestrutura & Dados
 
-| | |
-| :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40"/><br>**AWS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/><br>**Docker** |
-| Computação em nuvem, serverless e serviços de mensageria. | Containerização para isolamento e padronização de ambientes. |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/><br>**MySQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/><br>**PostgreSQL** |
-| Banco de dados relacional clássico para persistência segura de dados. | Banco de dados relacional avançado, robusto e altamente extensível. |
+| | | |
+| :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40"/><br>**AWS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/><br>**Docker** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/><br>**PostgreSQL** |
+| Computação em nuvem, serverless e serviços de mensageria. | Containerização para isolamento e padronização de ambientes. | Banco de dados relacional avançado, robusto e altamente extensível. |
 
 ---
 
