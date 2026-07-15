@@ -49,9 +49,9 @@ Tecnologias que já apliquei na prática, organizadas por categoria:
 
 ### 📚 Bibliotecas
 
-| | |
-| :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="110"/><br>**React** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="110"/><br>**Tailwind CSS** |
+| | | |
+| :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="110"/><br>**React** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="110"/><br>**Tailwind CSS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" alt="Vitest" width="110"/><br>**Vitest** |
 
 ### ☁️ Infraestrutura & Dados
 
@@ -65,9 +65,17 @@ Tecnologias que já apliquei na prática, organizadas por categoria:
 
 Pensando nos meus próximos passos de carreira e na evolução contínua para entregar softwares com cada vez mais qualidade, estas são as tecnologias e conceitos que planejo dominar em breve:
 
+**DevOps & Cloud**
+
 | | | | | | |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="DevOps" width="110"/><br>**DevOps** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="110"/><br>**Jenkins** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="110"/><br>**Sonar** | <img src="https://bun.sh/logo.svg" alt="Bun" width="110"/><br>**Bun** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="110"/><br>**NestJS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="110"/><br>**MongoDB** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="DevOps" width="110"/><br>**DevOps** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="110"/><br>**Kubernetes** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="110"/><br>**Terraform** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="110"/><br>**Jenkins** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="110"/><br>**GH Actions** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="110"/><br>**Sonar** |
+
+**Backend & Dados**
+
+| | | | | |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://bun.sh/logo.svg" alt="Bun" width="110"/><br>**Bun** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="110"/><br>**NestJS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="110"/><br>**MongoDB** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="110"/><br>**Redis** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="110"/><br>**Kafka** |
 
 ---
 
