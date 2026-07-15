@@ -45,7 +45,7 @@ Tecnologias que já apliquei na prática, organizadas por categoria:
 
 | | | | | |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="110"/><br>**Spring Boot** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="110"/><br>**Laravel** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="110"/><br>**Node.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="110"/><br>**Angular** | <img src="https://cdn.simpleicons.org/nextdotjs/black" alt="Next.js" width="110"/><br>**Next.js** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="110"/><br>**Spring Boot** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="110"/><br>**Laravel** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="110"/><br>**Node.js** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="110"/><br>**Angular** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="110"/><br>**Next.js** |
 
 ### 📚 Bibliotecas
 
