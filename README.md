@@ -65,10 +65,9 @@ Tecnologias que já apliquei na prática, organizadas por categoria:
 
 Pensando nos meus próximos passos de carreira e na evolução contínua para entregar softwares com cada vez mais qualidade, estas são as tecnologias e conceitos que planejo dominar em breve:
 
-| | | |
-| :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="DevOps" width="110"/><br>**DevOps** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="110"/><br>**Jenkins** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="110"/><br>**Sonar** |
-| <img src="https://bun.sh/logo.svg" alt="Bun" width="110"/><br>**Bun** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="110"/><br>**NestJS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="110"/><br>**MongoDB** |
+| | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="DevOps" width="110"/><br>**DevOps** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="110"/><br>**Jenkins** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="110"/><br>**Sonar** | <img src="https://bun.sh/logo.svg" alt="Bun" width="110"/><br>**Bun** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="110"/><br>**NestJS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="110"/><br>**MongoDB** |
 
 ---
 
