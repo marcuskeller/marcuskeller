@@ -89,4 +89,4 @@ Pensando nos meus próximos passos de carreira e na evolução contínua para en
 ## 📫 Vamos nos conectar?
 - **Portfólio:** [marcus-dev-portfolio.vercel.app](https://marcus-dev-portfolio.vercel.app/)
 - **LinkedIn:** [marcuskeller](https://linkedin.com/in/keller-marcus)
-- **E-mail:** [v.marcusk@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=v.marcusk@gmail.com)
+- **E-mail:** [v.marcusk@gmail.com](mailto:v.marcusk@gmail.com)
