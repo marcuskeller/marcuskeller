@@ -1,5 +1,15 @@
 # Sobre Mim
 
+<div align="center">
+
+### 🚀 [**Confira meu Portfólio →**](https://marcus-dev-portfolio.vercel.app/)
+
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-marcus--dev--portfolio.vercel.app-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://marcus-dev-portfolio.vercel.app/)
+
+</div>
+
+---
+
 Desenvolvedor Full Stack, formado em Desenvolvimento de Sistemas e atualmente cursando Análise e Desenvolvimento de Sistemas (ADS). Desenvolvo aplicações de ponta a ponta aplicando boas práticas de Clean Code e Clean Architecture, com experiência prática na construção de APIs REST usando **Java, Kotlin e Spring Boot**.
 
 No front-end, construo interfaces com **Angular e TypeScript**, sempre buscando entender bem o problema antes de propor a solução. Tenho interesse crescente em arquiteturas orientadas a eventos e serviços na nuvem (**AWS**), aplicados nos projetos abaixo.
@@ -80,5 +90,6 @@ Pensando nos meus próximos passos de carreira e na evolução contínua para en
 ---
 
 ## 📫 Vamos nos conectar?
+- **Portfólio:** [marcus-dev-portfolio.vercel.app](https://marcus-dev-portfolio.vercel.app/)
 - **LinkedIn:** [marcuskeller](https://linkedin.com/in/keller-marcus)
 - **E-mail:** [v.marcusk@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=v.marcusk@gmail.com)
