@@ -49,9 +49,9 @@ Tecnologias que já apliquei na prática, organizadas por categoria:
 
 ### 📚 Bibliotecas
 
-| | | |
-| :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="110"/><br>**React** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="110"/><br>**Tailwind CSS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" alt="Vitest" width="110"/><br>**Vitest** |
+| | | | | |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="110"/><br>**React** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="110"/><br>**Tailwind CSS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" alt="Vitest" width="110"/><br>**Vitest** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="110"/><br>**Jest** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" alt="JUnit" width="110"/><br>**JUnit** |
 
 ### ☁️ Infraestrutura & Dados
 
