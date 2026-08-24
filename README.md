@@ -12,15 +12,16 @@
 
 Desenvolvedor Full Stack, formado em Desenvolvimento de Sistemas e atualmente cursando Análise e Desenvolvimento de Sistemas (ADS). Desenvolvo aplicações de ponta a ponta aplicando boas práticas de Clean Code e Clean Architecture, com experiência prática na construção de APIs REST usando **Java, Kotlin e Spring Boot**.
 
-No front-end, construo interfaces com **Angular e TypeScript**, sempre buscando entender bem o problema antes de propor a solução. Tenho interesse crescente em arquiteturas orientadas a eventos e serviços na nuvem (**AWS**), aplicados nos projetos abaixo.
+No front-end, construo interfaces com **Angular e TypeScript**, sempre buscando entender bem o problema antes de propor a solução. Projeto e provisiono a infraestrutura de produção dos meus projetos na **AWS com Terraform** (EC2, RDS, S3, CloudFront) e automatizo o deploy via **CI/CD** — aplicado de ponta a ponta no PetFlow, abaixo.
 
 ---
 
 ## 💼 Projetos em Destaque
 
-### 🐾 [Petflow](https://github.com/marcuskeller/petflow)
+### 🐾 [Petflow](https://petflow.ong.br) · [📦 Repositório](https://github.com/marcuskeller/petflow)
 Plataforma SaaS de adoção de pets que conecta abrigos/ONGs a adotantes, com marketplace, comunidade e sistema de match.
 - **Stack:** Java 21 + Spring Boot (Spring Security, JWT, PostgreSQL, Liquibase) no backend · Angular + TypeScript + TailwindCSS/DaisyUI no frontend.
+- **Infra:** Terraform (EC2, RDS, S3, CloudFront, CI/CD via GitHub Actions com OIDC) — arquitetura completa em produção na AWS.
 - **Destaque:** Clean Architecture (Controller → Service → Repository → Domain), autenticação completa (login, cadastro, recuperação de senha) e vitrine de pets com busca e filtro em tempo real via Signals.
 
 ### ☁️ [AWS Image Pipeline](https://github.com/marcuskeller/aws-image-pipeline)
@@ -55,9 +56,9 @@ Tecnologias que já apliquei na prática, organizadas por categoria:
 
 ### ☁️ Infraestrutura & Dados
 
-| | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="110"/><br>**AWS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="110"/><br>**Docker** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="110"/><br>**MySQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="110"/><br>**PostgreSQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="110"/><br>**Vercel** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="110"/><br>**GH Actions** |
+| | | | | | | |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="110"/><br>**AWS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="110"/><br>**Terraform** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="110"/><br>**Docker** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="110"/><br>**MySQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="110"/><br>**PostgreSQL** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="110"/><br>**Vercel** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="110"/><br>**GH Actions** |
 
 ---
 
@@ -73,9 +74,9 @@ Pensando nos meus próximos passos de carreira e na evolução contínua para en
 
 **DevOps & Cloud**
 
-| | | | | |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="DevOps" width="110"/><br>**DevOps** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="110"/><br>**Kubernetes** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="110"/><br>**Terraform** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="110"/><br>**Jenkins** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="110"/><br>**Sonar** |
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="DevOps" width="110"/><br>**DevOps** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="110"/><br>**Kubernetes** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="110"/><br>**Jenkins** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="110"/><br>**Sonar** |
 
 **Backend & Dados**
 
@@ -88,6 +89,7 @@ Pensando nos meus próximos passos de carreira e na evolução contínua para en
 ## 📊 Estatísticas e Atividade
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcuskeller&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
   <img height="180em" src="https://streak-stats.demolab.com/?user=marcuskeller&theme=radical&hide_border=true" alt="Estatísticas de Commits" />
 </div>
 
