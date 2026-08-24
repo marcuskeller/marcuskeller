@@ -18,7 +18,7 @@ No front-end, construo interfaces com **Angular e TypeScript**, sempre buscando 
 
 ## 💼 Projetos em Destaque
 
-### 🐾 [Petflow](https://petflow.ong.br) · [📦 Repositório](https://github.com/marcuskeller/petflow)
+### 🐾 [Petflow](https://petflow.ong.br)
 Plataforma SaaS de adoção de pets que conecta abrigos/ONGs a adotantes, com marketplace, comunidade e sistema de match.
 - **Stack:** Java 21 + Spring Boot (Spring Security, JWT, PostgreSQL, Liquibase) no backend · Angular + TypeScript + TailwindCSS/DaisyUI no frontend.
 - **Infra:** Terraform (EC2, RDS, S3, CloudFront, CI/CD via GitHub Actions com OIDC) — arquitetura completa em produção na AWS.
@@ -74,9 +74,9 @@ Pensando nos meus próximos passos de carreira e na evolução contínua para en
 
 **DevOps & Cloud**
 
-| | | | |
-| :---: | :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="DevOps" width="110"/><br>**DevOps** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="110"/><br>**Kubernetes** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="110"/><br>**Jenkins** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="110"/><br>**Sonar** |
+| | | |
+| :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="110"/><br>**Kubernetes** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="110"/><br>**Jenkins** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="110"/><br>**Sonar** |
 
 **Backend & Dados**
 
@@ -89,7 +89,7 @@ Pensando nos meus próximos passos de carreira e na evolução contínua para en
 ## 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcuskeller&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcuskeller&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" />
   <img height="180em" src="https://streak-stats.demolab.com/?user=marcuskeller&theme=radical&hide_border=true" alt="Estatísticas de Commits" />
 </div>
 
