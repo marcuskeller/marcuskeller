@@ -89,8 +89,7 @@ Pensando nos meus próximos passos de carreira e na evolução contínua para en
 ## 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcuskeller&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=marcuskeller&theme=radical&hide_border=true" alt="Estatísticas de Commits" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=marcuskeller&theme=radical&hide_border=true&v=2" alt="Estatísticas de Commits" />
 </div>
 
 <br>
