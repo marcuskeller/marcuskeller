@@ -50,9 +50,9 @@ Tecnologias que já apliquei na prática, organizadas por categoria:
 
 ### 📚 Bibliotecas
 
-| | | | |
-| :---: | :---: | :---: | :---: |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="110"/><br>**Tailwind CSS** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" alt="Vitest" width="110"/><br>**Vitest** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="110"/><br>**Jest** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" alt="JUnit" width="110"/><br>**JUnit** |
+| | | | | |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="110"/><br>**Tailwind CSS** | <img src="https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg" alt="DaisyUI" width="110"/><br>**DaisyUI** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" alt="Vitest" width="110"/><br>**Vitest** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="110"/><br>**Jest** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-plain.svg" alt="JUnit" width="110"/><br>**JUnit** |
 
 ### ☁️ Infraestrutura & Dados
 
@@ -89,7 +89,7 @@ Pensando nos meus próximos passos de carreira e na evolução contínua para en
 ## 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=marcuskeller&theme=radical&hide_border=true&v=2" alt="Estatísticas de Commits" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=marcuskeller&theme=radical&hide_border=true" alt="Estatísticas de Commits" />
 </div>
 
 <br>
